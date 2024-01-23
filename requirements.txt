@@ -3,5 +3,3 @@ streamlit
 plotly.express
 datetime
 openpyxl
-itertools
-collections
